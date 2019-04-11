@@ -1,0 +1,2 @@
+# Myrepa
+Just another repository
